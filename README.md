@@ -1,2 +1,2 @@
 # Data
-# We are going to learn pyhthon through data analysis project
+# We are going to learn python through data analysis project
